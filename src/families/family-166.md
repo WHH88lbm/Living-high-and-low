@@ -1,6 +1,6 @@
 ---
 title: Family 166
-layout: base.njk
+layout: base
 tags: [low, India]
 income: $30
 image: 166.mp4

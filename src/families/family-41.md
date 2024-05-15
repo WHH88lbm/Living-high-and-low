@@ -1,6 +1,6 @@
 ---
 title: Family 41
-layout: base.njk
+layout: base
 tags: [high, Cambodia]
 income: $1522
 image: 41.jpg

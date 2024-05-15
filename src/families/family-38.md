@@ -1,6 +1,6 @@
 ---
 title: Family 38
-layout: base.njk
+layout: base
 tags: [low, Cambodia]
 income: $60
 image: 38.jpg

@@ -1,6 +1,6 @@
 ---
 title: Family 42
-layout: base.njk
+layout: base
 tags: [low, China]
 income: $133
 image: 42.jpg

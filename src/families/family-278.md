@@ -1,6 +1,6 @@
 ---
 title: Family 278
-layout: base.njk
+layout: base
 tags: [high, India]
 income: $6606
 image: 278.jpg
