@@ -1,6 +1,6 @@
 ---
 title: Home Page
-layout: base.njk
+layout: base
 pageClass: home
 tags:
   - home
