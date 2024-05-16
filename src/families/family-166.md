@@ -3,8 +3,8 @@ title: Family 166
 layout: base
 tags: [low, India]
 income: $30
-image: 166.mp4
-description: The family lives in India. S is 40 years old and is a fruit collector. His wife B is 30 years old and they have 4 children. 
+image: 166.jpg
+imageAlt: The family lives in India. S is 40 years old and is a fruit collector. His wife B is 30 years old and they have 4 children. 
 ---
 # {{title}}
 Monthly income: {{income}}

@@ -4,7 +4,7 @@ layout: base
 tags: [high, Cambodia]
 income: $1522
 image: 41.jpg
-image-alt: The family lives in Cambodia. S is 30 years old and is a teacher. His wife K is 28 years old and is also a teacher. 
+imageAlt: The family lives in Cambodia. S is 30 years old and is a teacher. His wife K is 28 years old and is also a teacher. 
 ---
 # {{title}}
 Monthly income: {{income}}

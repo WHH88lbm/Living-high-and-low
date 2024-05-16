@@ -4,7 +4,7 @@ layout: base
 tags: [low, Cambodia]
 income: $60
 image: 38.jpg
-image-alt: The family lives in Cambodia. T is 46 years old and works part-time in construction. His wife O is 49 years old and is unemployed.
+imageAlt: The family lives in Cambodia. T is 46 years old and works part-time in construction. His wife O is 49 years old and is unemployed.
 ---
 # {{title}}
 Monthly income: {{income}}
