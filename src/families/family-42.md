@@ -4,7 +4,7 @@ layout: base
 tags: [low, China]
 income: $133
 image: 42.jpg
-image-alt: The family lives in China. W is 68 years old and works as a farmer. 
+imageAlt: The family lives in China. W is 68 years old and works as a farmer. 
 ---
 # {{title}}
 Monthly income: {{income}}

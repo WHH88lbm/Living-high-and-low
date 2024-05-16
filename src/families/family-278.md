@@ -4,7 +4,7 @@ layout: base
 tags: [high, India]
 income: $6606
 image: 278.jpg
-image-alt: Family lives in India. B, 55 years old, is a working professional and his wife H, 48 years old, stays at home. 
+imageAlt: Family lives in India. B, 55 years old, is a working professional and his wife H, 48 years old, stays at home. 
 ---
 # {{title}}
 Monthly income: {{income}}
