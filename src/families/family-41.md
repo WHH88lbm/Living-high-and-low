@@ -5,6 +5,8 @@ tags: [high, Cambodia]
 income: $1522
 image: 41.jpg
 imageAlt: The family lives in Cambodia. S is 30 years old and is a teacher. His wife K is 28 years old and is also a teacher. 
+credit: "Photo by: Luc Forsyth"
+creditLink: https://www.gapminder.org/dollar-street/photographers/luc-forsyth?
 ---
 # {{title}}
 Monthly income: {{income}}
