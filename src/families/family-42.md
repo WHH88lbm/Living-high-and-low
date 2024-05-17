@@ -5,6 +5,8 @@ tags: [low, China]
 income: $133
 image: 42.jpg
 imageAlt: The family lives in China. W is 68 years old and works as a farmer. 
+credit: "Photo by: Jonathan Taylor"
+creditLink: https://www.gapminder.org/dollar-street/photographers/jonathan-taylor?
 ---
 # {{title}}
 Monthly income: {{income}}
