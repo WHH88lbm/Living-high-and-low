@@ -4,15 +4,13 @@ layout: base
 pageClass: home
 ---
 
-<header>
-  <div class="navbar">
 
     <span class="logo">Logo</span>
     <ul>
         <li><a href="#">Location</a></li>
         <li><a href="#">Income</a></li>
     </ul>
-</div>
+
   
       <h1>Title</h1>
 

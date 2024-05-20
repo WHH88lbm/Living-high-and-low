@@ -2,16 +2,18 @@
 title: Cambodia Page
 layout: base
 pageClass: home
+image: 41.jpg
+imageAlt: family of 6 standing outside their home
 ---
 
-<div class="navbar">
+
 
     <span class="logo">Logo</span>
     <ul>
         <li><a href="#">Location</a></li>
         <li><a href="#">Income</a></li>
     </ul>
-</div>
+
   
        <h1>Cambodia</h1>
        
@@ -19,7 +21,7 @@ pageClass: home
   <div class="grid-container">
     <!-- Row 1 -->
     <div class="grid-item">
-        <img src="image1.jpg" alt="Image 1">
+      <img src="/media/38.jpg " alt=" page.data.imageAlt " class="card-image">
     </div>
     <div class="grid-item">
         <img src="image2.jpg" alt="Image 2">
