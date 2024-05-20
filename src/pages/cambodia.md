@@ -11,9 +11,9 @@ pageClass: home
 </div>
 
 <h2>Family 38</h2>
-<img src="/media/38.jpg " alt=" page.data.imageAlt " class="card-image">
+<img src="/media/38.jpg " alt=" text " class="card-image">
 <h2>Family 41</h2>
-<img src="/media/41.jpg " alt=" page.data.imageAlt " class="card-image">
+<img src="/media/41.jpg " alt=" text " class="card-image">
 
 
     
