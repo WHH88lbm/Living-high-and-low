@@ -1,15 +1,9 @@
 ---
-title: Home Page
+title: homepage
 layout: base
 pageClass: home
 ---
 <h1>Families in China</h1>
-<ul>
-{% for page in collections.China %}
-<li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
-{% endfor %}
-</ul>
-<ul>
 <div class="grid-container">
 {% for page in collections.China %}
 <article class="card">
@@ -25,11 +19,6 @@ pageClass: home
 {% endfor %}
 </div>
 <h1>Families in India</h1>
-<ul>
-{% for page in collections.India %}
-<li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
-{% endfor %}
-</ul>
 <div class="grid-container">
 {% for page in collections.India %}
 <article class="card">
@@ -45,11 +34,6 @@ pageClass: home
 {% endfor %}
 </div>
 <h1>Families in Cambodia</h1>
-<ul>
-{% for page in collections.Cambodia %}
-<li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
-{% endfor %}
-</ul>
 <div class="grid-container">
 {% for page in collections.Cambodia %}
 <article class="card">
