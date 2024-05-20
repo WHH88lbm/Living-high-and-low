@@ -1,10 +1,9 @@
 ---
-title: Home Page
+title: homepage
 layout: base
 pageClass: home
 ---
-  
-      <h1>Families in India</h1>
+
 <div class="grid-container">
 {% for page in collections.India %}
 <article class="card">
@@ -17,7 +16,7 @@ pageClass: home
 </article>
 {% endfor %}
 </div>
-<h1>Families in China</h1>
+
 <div class="grid-container">
 {% for page in collections.China %}
 <article class="card">
