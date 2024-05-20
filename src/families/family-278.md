@@ -3,11 +3,19 @@ title: Family 278
 layout: base
 tags: [high, India]
 income: $6606
+pageClass: family
 image: 278.jpg
 imageAlt: Family lives in India. B, 55 years old, is a working professional and his wife H, 48 years old, stays at home. 
 credit: "Photo by: Priya Gupta"
 creditLink: https://www.gapminder.org/dollar-street/photographers/priya-gupta?
 ---
+<div class="navbar">
+    <ul>
+        <li><a href="#">nav</a></li>
+        <li><a href="#">nav</a></li>
+    </ul>
+</div>
+
 # {{title}}
 Monthly income: {{income}}
 ## Description

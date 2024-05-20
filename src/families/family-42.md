@@ -3,11 +3,19 @@ title: Family 42
 layout: base
 tags: [low, China]
 income: $133
+pageClass: family
 image: 42.jpg
 imageAlt: The family lives in China. W is 68 years old and works as a farmer. 
 credit: "Photo by: Jonathan Taylor"
 creditLink: https://www.gapminder.org/dollar-street/photographers/jonathan-taylor?
 ---
+<div class="navbar">
+    <ul>
+        <li><a href="#">nav</a></li>
+        <li><a href="#">nav</a></li>
+    </ul>
+</div>
+
 # {{title}}
 Monthly income: {{income}}
 ## Description

@@ -3,11 +3,19 @@ title: Family 38
 layout: base
 tags: [low, Cambodia]
 income: $60
+pageClass: family
 image: 38.jpg
 imageAlt: The family lives in Cambodia. T is 46 years old and works part-time in construction. His wife O is 49 years old and is unemployed.
 credit: "Photo by: Luc Forsyth"
 creditLink: https://www.gapminder.org/dollar-street/photographers/luc-forsyth?
 ---
+<div class="navbar">
+    <ul>
+        <li><a href="#">nav</a></li>
+        <li><a href="#">nav</a></li>
+    </ul>
+</div>
+
 # {{title}}
 Monthly income: {{income}}
 ## Description

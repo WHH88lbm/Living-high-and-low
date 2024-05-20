@@ -3,11 +3,19 @@ title: Family 184
 layout: base
 tags: [high, China]
 income: $10098
+pageClass: family
 image: 184.jpg
 imageAlt: The family lives in India. S is 40 years old and is a fruit collector. His wife B is 30 years old and they have 4 children. 
 credit: "Photo by: Jonathan Taylor"
 creditLink: https://www.gapminder.org/dollar-street/photographers/jonathan-taylor?
 ---
+<div class="navbar">
+    <ul>
+        <li><a href="#">nav</a></li>
+        <li><a href="#">nav</a></li>
+    </ul>
+</div>
+
 # {{title}}
 Monthly income: {{income}}
 ## Description
