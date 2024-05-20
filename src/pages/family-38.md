@@ -9,12 +9,7 @@ imageAlt: The family lives in Cambodia. T is 46 years old and works part-time in
 credit: "Photo by: Luc Forsyth"
 creditLink: https://www.gapminder.org/dollar-street/photographers/luc-forsyth?
 ---
-<div class="navbar">
-    <ul>
-        <li><a href="#">nav</a></li>
-        <li><a href="#">nav</a></li>
-    </ul>
-</div>
+
 
 # {{title}}
 Monthly income: {{income}}

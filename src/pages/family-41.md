@@ -9,12 +9,7 @@ imageAlt: The family lives in Cambodia. S is 30 years old and is a teacher. His 
 credit: "Photo by: Luc Forsyth"
 creditLink: https://www.gapminder.org/dollar-street/photographers/luc-forsyth?
 ---
-<div class="navbar">
-    <ul>
-        <li><a href="#">nav</a></li>
-        <li><a href="#">nav</a></li>
-    </ul>
-</div>
+
 
 # {{title}}
 Monthly income: {{income}}

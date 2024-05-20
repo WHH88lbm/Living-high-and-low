@@ -9,12 +9,7 @@ imageAlt: The family lives in India. S is 40 years old and is a fruit collector.
 credit: "Photo by: Zoriah Miller"
 creditLink: https://www.gapminder.org/dollar-street/photographers/zoriah-miller?
 ---
-<div class="navbar">
-    <ul>
-        <li><a href="#">nav</a></li>
-        <li><a href="#">nav</a></li>
-    </ul>
-</div>
+
 
 # {{title}}
 Monthly income: {{income}}

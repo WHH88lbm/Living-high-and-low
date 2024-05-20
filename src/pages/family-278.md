@@ -9,12 +9,6 @@ imageAlt: Family lives in India. B, 55 years old, is a working professional and 
 credit: "Photo by: Priya Gupta"
 creditLink: https://www.gapminder.org/dollar-street/photographers/priya-gupta?
 ---
-<div class="navbar">
-    <ul>
-        <li><a href="#">nav</a></li>
-        <li><a href="#">nav</a></li>
-    </ul>
-</div>
 
 # {{title}}
 Monthly income: {{income}}
