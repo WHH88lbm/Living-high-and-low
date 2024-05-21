@@ -17,8 +17,11 @@ img,video{
 
 /* Typography */
 h1 {
-    color: #333;
+    /*color: #333;*/
+    color: var(--blue);
     font-family: 'Fredo', sans-serif;
+    margin: 20px;
+
 }
 
 h2 {

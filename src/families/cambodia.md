@@ -15,6 +15,8 @@ pageClass: families-india
           <h3 class="card-title">{{ page.data.title }}</h3>
         </div>
       </a>
+      <div class="card-credit"><a href="{{ page.data.creditLink }}">{{ page.data.credit }}</a>
+      </div>
     </article>
     {%- endfor %}
   </div>
