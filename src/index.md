@@ -2,22 +2,38 @@
 title: Home Page
 layout: base
 pageClass: home
-tags:
-  - home
-  - welcome
-  - info
 ---
-<h2 class="mainHeading">Main Content</h2>
-<section class="content">
-  <p>Add your own content. You can delete all of the content on this page after the front-matter.</p>
-</section>
+<header>
+  <h1>TOYS IN ASIA</h1>
+  <nav>
+    <div class="nav-item dropdown">
+      <button class="dropbtn">LOCATION</button>
+      <div class="dropdown-content">
+        <a href="families/china.md">China</a>
+        <a href="families/india.md">India</a>
+        <a href="families/cambodia.md">Cambodia</a>
+      </div>
+    </div>
+    <div class="nav-item dropdown">
+      <button class="dropbtn">INCOME</button>
+      <div class="dropdown-content">
+        <a href="families/low.md.md">Low</a>
+        <a href="families/medium.md">Medium</a>
+        <a href="families/high.md">High</a>
+      </div>
+    </div>
+  </nav>
+</header>
 
-## Other instructions
+<div class="hero">
+  <h1>LET US HELP YOU WITH YOUR TOY SEARCH</h1>
+</div>
 
-You can write in either markdown OR HTML and can even mix them both together on the same page
+<div class="main-content about-us">
+  <div>
+    <h2>ABOUT US</h2>
+    <p>Toys in Asia is dedicated to connecting families with the perfect toys to foster joy and development. Our  database spans across  China, India, and Cambodia. We aim to provide information on toy availability Our mission is to make the toy search process simple, efficient, and tailored to the unique requirements of each family.</p>
+  </div>
+</div>
 
-Later you will also see that you can put nunjucks code in these files too.
 
-You will create a .md file here for each .html file you would have made in a normal siet.
-
-Don't forget the front matter!
