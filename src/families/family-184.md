@@ -1,6 +1,6 @@
 ---
 title: Family 184
-layout: base
+layout: page
 tags: [high, China]
 income: $10098
 image: 184.jpg

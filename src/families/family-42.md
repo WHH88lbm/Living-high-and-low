@@ -1,6 +1,6 @@
 ---
 title: Family 42
-layout: base
+layout: page
 tags: [low, China]
 income: $133
 location: China

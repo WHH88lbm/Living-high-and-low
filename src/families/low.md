@@ -1,6 +1,6 @@
 ---
 title: Low Income Families
-layout: page
+layout: base
 pageClass: families-low
 ---
 
