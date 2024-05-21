@@ -7,7 +7,11 @@ image: 278.jpg
 imageAlt: Family lives in India. B, 55 years old, is a working professional and his wife H, 48 years old, stays at home. 
 ---
 <header>
-  <h1>TOYS IN ASIA</h1>
+  <a href="/" class="logo-link">
+    <div class="logo-container">
+      <img src="/media/logo.jpg" alt="Toys in Asia Logo" class="logo">
+      <h1>TOYS IN ASIA</h1>
+    </div>
   <nav>
     <div class="nav-item dropdown">
       <button class="dropbtn">LOCATION</button>

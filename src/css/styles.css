@@ -1,3 +1,7 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fredo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arial&display=swap');
+
 /* Base styling */
 body {
     font-family: Arial, sans-serif;
@@ -6,9 +10,24 @@ body {
     background-color: #f4f4f4;
 }
 
+/* Typography */
 h1 {
-    text-align: center;
     color: #333;
+    font-family: 'Fredo', sans-serif;
+}
+
+h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Site Colors */
+:root {
+    --purple: #9516AC;
+    --light-purple: #A5D6A7;
+    --orange: #FF7043;
+    --blue: #42A5F5;
+    --pink: #F8BBD0;
+    --white: #FFFFFF;
 }
 
 ul {
@@ -27,12 +46,28 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #fff;
+    background-color: var(--white);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-link {
+    text-decoration: none; /* Ensures no underline on the logo link */
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 90px;  /* Adjust size as needed */
+    height: auto;
+    margin-right: 15px;  /* Adjust space between logo and text */
 }
 
 header h1 {
     margin: 0;
+    color: var(--purple);
 }
 
 nav {
@@ -56,7 +91,7 @@ nav {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: var(--white);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -70,7 +105,7 @@ nav {
 }
 
 .dropdown-content a:hover {
-    background-color: #f1f1f1;
+    background-color: var(--light-purple);
 }
 
 .nav-item:hover .dropdown-content {
@@ -79,14 +114,15 @@ nav {
 
 .main-content {
     padding: 20px;
-    background-color: #fff;
+    background-color: var(--white);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin: 20px;
+    text-align: left;  /* Left align text */
 }
 
 /* Hero section */
 .hero {
-    background-color: #e0e0e0;
+    background-color: var(--light-purple);
     text-align: center;
     padding: 80px 20px;
     height: 400px;
@@ -99,12 +135,13 @@ nav {
 .hero h1 {
     margin-bottom: 20px;
     font-size: 2.5em;
+    color: var(--purple);
 }
 
 .hero button {
     padding: 15px 30px;
-    background-color: #333;
-    color: #fff;
+    background-color: var(--orange);
+    color: var(--white);
     border: none;
     cursor: pointer;
     font-size: 1.2em;
@@ -116,18 +153,30 @@ nav {
     justify-content: center;
     align-items: center;
     padding: 40px 20px;
-    background-color: #fff;
-    text-align: center;
+    background-color: var(--white);
+    text-align: left;  /* Left align text */
 }
 
 .about-us div {
     max-width: 800px;
 }
 
+/* Image centering */
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.centered-image {
+    max-width: 100%;
+    height: auto;
+}
+
 /* Footer */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: var(--purple);
+    color: var(--white);
     text-align: center;
     padding: 20px;
 }
@@ -141,7 +190,7 @@ footer {
 }
 
 .card {
-    background-color: #fff;
+    background-color: var(--white);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin: 10px;
     width: 300px;
@@ -167,5 +216,5 @@ footer {
 
 /* Specific page classes */
 .pageClass {
-    text-align: center;
+    text-align: left;  /* Left align text */
 }
