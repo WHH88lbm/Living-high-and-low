@@ -1,8 +1,9 @@
 ---
 title: Family 278
-layout: base
+layout: page
 tags: [high, India]
 income: $6606
+location: India
 image: 278.jpg
 imageAlt: Family lives in India. B, 55 years old, is a working professional and his wife H, 48 years old, stays at home. 
 ---

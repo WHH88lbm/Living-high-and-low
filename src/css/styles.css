@@ -10,6 +10,11 @@ body {
     background-color: #f4f4f4;
 }
 
+img,video{
+    max-width: 100%;
+    height: auto;
+}
+
 /* Typography */
 h1 {
     color: #333;
@@ -188,7 +193,7 @@ footer {
     gap: 20px;
     justify-content: center;
 }
-
+/* 
 .card {
     background-color: var(--white);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -211,10 +216,22 @@ footer {
 
 .card-title {
     margin: 0;
-    font-size: 1.2em;
+    font-size: 1.2em; */
 }
 
 /* Specific page classes */
 .pageClass {
     text-align: left;  /* Left align text */
+}
+
+/* list grid */
+.list-grid
+    {
+        display: flex;
+        gap: 20px;
+    
+    }
+
+.list-grid .card {
+    width: 150px;
 }

@@ -3,6 +3,7 @@ title: Family 42
 layout: base
 tags: [low, China]
 income: $133
+location: China
 image: 42.jpg
 imageAlt: The family lives in China. W is 68 years old and works as a farmer. 
 ---

@@ -4,6 +4,7 @@ layout: base
 tags: [high, China]
 income: $10098
 image: 184.jpg
+location: China
 imageAlt: The family lives in India. S is 40 years old and is a fruit collector. His wife B is 30 years old and they have 4 children. 
 ---
 <header>
