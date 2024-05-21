@@ -16,7 +16,7 @@ pageClass: families-china
     </div>
     <div class="nav-item dropdown">
       <button class="dropbtn">INCOME</button>
-      <div clasn Chinas="dropdown-content">
+      <div class="dropdown-content">
         <a href="/families/low">Low</a>
         <a href="/families/high">High</a>
       </div>
