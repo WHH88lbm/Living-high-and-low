@@ -3,31 +3,6 @@ title: Home Page
 layout: base
 pageClass: home
 ---
-<header>
-  <a href="/" class="logo-link">
-    <div class="logo-container">
-      <img src="/media/logo.jpg" alt="Toys in Asia Logo" class="logo">
-      <h1>TOYS IN ASIA</h1>
-    </div>
-  </div>
-  <nav>
-    <div class="nav-item dropdown">
-      <button class="dropbtn">LOCATION</button>
-      <div class="dropdown-content">
-        <a href="/families/china">China</a>
-        <a href="/families/india">India</a>
-        <a href="/families/cambodia">Cambodia</a>
-      </div>
-    </div>
-    <div class="nav-item dropdown">
-      <button class="dropbtn">INCOME</button>
-      <div class="dropdown-content">
-        <a href="/families/low">Low</a>
-        <a href="/families/high">High</a>
-      </div>
-    </div>
-  </nav>
-</header>
 
 <div class="hero">
   <h1>LET US HELP A TOY FIND A NEW HOME</h1>
