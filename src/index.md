@@ -23,7 +23,6 @@ pageClass: home
       <button class="dropbtn">INCOME</button>
       <div class="dropdown-content">
         <a href="/families/low">Low</a>
-        <a href="/families/medium">Medium</a>
         <a href="/families/high">High</a>
       </div>
     </div>
