@@ -1,14 +1,19 @@
 ---
-title: Families in India
+title: Low Income Families
 layout: base
-pageClass: families-india
+pageClass: families-low
 ---
 
 
 <div class="main-content">
-  <h1>Families in India</h1>
+  <h1>Families with Low Income</h1>
+  <ul>
+    {% for page in collections.low %}
+    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+    {% endfor %}
+  </ul>
   <div class="grid-container">
-    {% for page in collections.India %}
+    {% for page in collections.low %}
     <article class="card">
       <a href="{{ page.url }}">
         <img src="/media/{{ page.data.image }}" alt="{{ page.data.imageAlt }}" class="card-image">
@@ -20,4 +25,3 @@ pageClass: families-india
     {% endfor %}
   </div>
 </div>
-

@@ -4,7 +4,7 @@ layout: base
 pageClass: families-china
 ---
 <header>
-  <a href="/" class="logo-link">
+ <a href="/" class="logo-link">
     <div class="logo-container">
       <img src="/media/logo.jpg" alt="Toys in Asia Logo" class="logo">
       <h1>TOYS IN ASIA</h1>
@@ -29,14 +29,9 @@ pageClass: families-china
 </header>
 
 <div class="main-content">
-  <h1>Families in China</h1>
-  <ul>
-    {% for page in collections.China %}
-    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <h1>Families with High Income </h1>
   <div class="grid-container">
-    {% for page in collections.China %}
+    {%- for page in collections.high %}
     <article class="card">
       <a href="{{ page.url }}">
         <img src="/media/{{ page.data.image }}" alt="{{ page.data.imageAlt }}" class="card-image">
@@ -45,7 +40,7 @@ pageClass: families-china
         </div>
       </a>
     </article>
-    {% endfor %}
+    {%- endfor %}
   </div>
 </div>
 

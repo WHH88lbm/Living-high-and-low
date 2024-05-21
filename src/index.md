@@ -3,17 +3,41 @@ title: Home Page
 layout: base
 pageClass: home
 ---
-<img src="/media/familyphoto.jpg" alt="Family portrait in front of a house" class="card-image">
+<header>
+  <a href="/" class="logo-link">
+    <div class="logo-container">
+      <img src="/media/logo.jpg" alt="Toys in Asia Logo" class="logo">
+      <h1>TOYS IN ASIA</h1>
+    </div>
+  </div>
+  <nav>
+    <div class="nav-item dropdown">
+      <button class="dropbtn">LOCATION</button>
+      <div class="dropdown-content">
+        <a href="/families/china">China</a>
+        <a href="/families/india">India</a>
+        <a href="/families/cambodia">Cambodia</a>
+      </div>
+    </div>
+    <div class="nav-item dropdown">
+      <button class="dropbtn">INCOME</button>
+      <div class="dropdown-content">
+        <a href="/families/low">Low</a>
+        <a href="/families/high">High</a>
+      </div>
+    </div>
+  </nav>
+</header>
 
-<h2>Your Title</h2>
-<button class="header-button">Click Here</button>
-
-<img src="/media/home.jpg" alt="group of people holding hands witha sunsetting in front of them" class="card-image">
-
-<h2>Your Title</h2>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget felis euismod, venenatis libero vel, lacinia massa. Ut id nisi non felis congue vehicula. Vivamus malesuada justo et dolor dignissim, eget condimentum mauris vehicula. Cras hendrerit ligula vitae libero bibendum, eget facilisis tortor bibendum. Integer euismod efficitur tempor. Phasellus sit amet suscipit eros. Duis euismod, quam in tempor tincidunt, ante lectus viverra turpis, in varius justo ligula in nisi. Curabitur fringilla consectetur lorem ut laoreet.
+<div class="hero">
+  <h1>LET US HELP A TOY FIND A NEW HOME</h1>
 </div>
 
-<footer>
-    <p>&copy; 2024 Your Name</p>
+<div class="main-content about-us">
+  <div>
+    <h2>ABOUT US</h2>
+    <p>Toys in Asia is dedicated to connecting families with the perfect toys to foster joy and development. Our  database will connect you to families across  China, India, and Cambodia to gift them new toys. We aim to provide information on a new  toy home.</p>
+  </div>
+</div>
+
 
