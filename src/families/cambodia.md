@@ -1,6 +1,6 @@
 ---
 title: Families in India
-layout: base
+layout: page
 pageClass: families-india
 ---
 

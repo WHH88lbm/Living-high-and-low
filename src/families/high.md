@@ -1,6 +1,6 @@
 ---
 title: High Income Families
-layout: base
+layout: page
 pageClass: families-high
 ---
 

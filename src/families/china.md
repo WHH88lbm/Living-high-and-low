@@ -1,6 +1,6 @@
 ---
 title: Families in China
-layout: base
+layout: page
 pageClass: families-china
 ---
 
