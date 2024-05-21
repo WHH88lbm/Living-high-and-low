@@ -9,17 +9,17 @@ pageClass: families-china
     <div class="nav-item dropdown">
       <button class="dropbtn">LOCATION</button>
       <div class="dropdown-content">
-        <a href="#">China</a>
-        <a href="#">India</a>
-        <a href="#">Cambodia</a>
+        <a href="/families/china">China</a>
+        <a href="/families/india">India</a>
+        <a href="/families/cambodia">Cambodia</a>
       </div>
     </div>
     <div class="nav-item dropdown">
       <button class="dropbtn">INCOME</button>
       <div class="dropdown-content">
-        <a href="#">Low</a>
-        <a href="#">Medium</a>
-        <a href="#">High</a>
+        <a href="/families/low">Low</a>
+        <a href="/families/medium">Medium</a>
+        <a href="/families/high">High</a>
       </div>
     </div>
   </nav>
@@ -47,5 +47,5 @@ pageClass: families-china
 </div>
 
 <footer>
-  <p>FOOTER</p>
+  
 </footer>

@@ -9,17 +9,17 @@ pageClass: home
     <div class="nav-item dropdown">
       <button class="dropbtn">LOCATION</button>
       <div class="dropdown-content">
-        <a href="families/china.md">China</a>
-        <a href="families/india.md">India</a>
-        <a href="families/cambodia.md">Cambodia</a>
+        <a href="/families/china">China</a>
+        <a href="/families/india">India</a>
+        <a href="/families/cambodia">Cambodia</a>
       </div>
     </div>
     <div class="nav-item dropdown">
       <button class="dropbtn">INCOME</button>
       <div class="dropdown-content">
-        <a href="families/low.md.md">Low</a>
-        <a href="families/medium.md">Medium</a>
-        <a href="families/high.md">High</a>
+        <a href="/families/low">Low</a>
+        <a href="/families/medium">Medium</a>
+        <a href="/families/high">High</a>
       </div>
     </div>
   </nav>
