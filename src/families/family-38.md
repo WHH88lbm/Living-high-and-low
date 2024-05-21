@@ -1,6 +1,6 @@
 ---
 title: Family 38
-layout: base
+layout: page
 tags: [low, Cambodia]
 income: $60
 location: Cambodia

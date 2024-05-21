@@ -1,6 +1,6 @@
 ---
 title: Family 41
-layout: base
+layout: page
 tags: [high, Cambodia]
 income: $1522
 location: Cambodia
