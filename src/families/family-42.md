@@ -6,31 +6,11 @@ income: $133
 location: China
 image: 42.jpg
 imageAlt: The family lives in China. W is 68 years old and works as a farmer. 
+credit: "Photo by: Jonathan Taylor"
+creditLink: https://www.gapminder.org/dollar-street/photographers/jonathan-taylor?
 ---
-<header>
-  <a href="/" class="logo-link">
-    <div class="logo-container">
-      <img src="/media/logo.jpg" alt="Toys in Asia Logo" class="logo">
-      <h1>TOYS IN ASIA</h1>
-    </div>
-  <nav>
-    <div class="nav-item dropdown">
-      <button class="dropbtn">LOCATION</button>
-      <div class="dropdown-content">
-        <a href="/families/china">China</a>
-        <a href="/families/india">India</a>
-        <a href="/families/cambodia">Cambodia</a>
-      </div>
-    </div>
-    <div class="nav-item dropdown">
-      <button class="dropbtn">INCOME</button>
-      <div class="dropdown-content">
-        <a href="/families/low">Low</a>
-        <a href="/families/high">High</a>
-      </div>
-    </div>
-  </nav>
-</header>
+
+
 
 <div class="main-content">
   <h1>{{title}}</h1>
@@ -43,8 +23,5 @@ The family lives in China. W is 68 years old and works as a farmer. She lives wi
 
 </div>
 
-<footer>
- 
-</footer>
 
 
